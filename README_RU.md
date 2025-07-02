@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Shell: Bash](https://img.shields.io/badge/Shell-Bash-4EAA25.svg)](https://www.gnu.org/software/bash/)
-[![Dependency: jq](https://img.shields.io/badge/Dependency-jq-1.6+-blue.svg)](https://stedolan.github.io/jq/)
+[![Dependency: jq](https://img.shields.io/badge/Dependency-jq%201.6+-blue.svg)](https://stedolan.github.io/jq/)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux%20%7C%20Unix-lightgrey.svg)](https://www.linux.org/)
-[![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/mrvi0/cli-json-fomatter)
 
 🚀 Легкий и быстрый CLI инструмент для валидации и форматирования JSON файлов и строк.
 
@@ -20,7 +20,7 @@
 
 ## 🛠️ Установка
 
-[![Установка](https://img.shields.io/badge/Установка-30%20секунд-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Установка](https://img.shields.io/badge/Установка-30%20секунд-brightgreen.svg)](https://github.com/mrvi0/cli-json-fomatter)
 [![Платформа](https://img.shields.io/badge/Платформа-Linux%20%7C%20Unix-blue.svg)](https://www.linux.org/)
 [![Зависимости](https://img.shields.io/badge/Зависимости-Авто%20установка-orange.svg)](https://stedolan.github.io/jq/)
 
@@ -28,7 +28,7 @@
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/yourusername/json-formatter-cli.git
+git clone https://github.com/mrvi0/cli-json-fomatter.git
 cd json-formatter-cli
 
 # Установите в систему
@@ -52,9 +52,9 @@ sudo cp jsonfmt /usr/local/bin/
 
 ## 🚀 Использование
 
-[![Использование](https://img.shields.io/badge/Использование-Простой%20CLI-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
-[![Функции](https://img.shields.io/badge/Функции-Валидация%20%7C%20Форматирование-blue.svg)](https://github.com/yourusername/json-formatter-cli)
-[![Вывод](https://img.shields.io/badge/Вывод-Цветной%20%7C%20Красивый-orange.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Использование](https://img.shields.io/badge/Использование-Простой%20CLI-brightgreen.svg)](https://github.com/mrvi0/cli-json-fomatter)
+[![Функции](https://img.shields.io/badge/Функции-Валидация%20%7C%20Форматирование-blue.svg)](https://github.com/mrvi0/cli-json-fomatter)
+[![Вывод](https://img.shields.io/badge/Вывод-Цветной%20%7C%20Красивый-orange.svg)](https://github.com/mrvi0/cli-json-fomatter)
 
 ### Базовое использование
 
@@ -147,9 +147,9 @@ jsonfmt -f invalid.json
 
 ## 🧪 Тестирование
 
-[![Тесты](https://img.shields.io/badge/Тесты-Автоматизированные-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
-[![Покрытие](https://img.shields.io/badge/Покрытие-Все%20функции-blue.svg)](https://github.com/yourusername/json-formatter-cli)
-[![Статус](https://img.shields.io/badge/Статус-Проходят-orange.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Тесты](https://img.shields.io/badge/Тесты-Автоматизированные-brightgreen.svg)](https://github.com/mrvi0/cli-json-fomatter)
+[![Покрытие](https://img.shields.io/badge/Покрытие-Все%20функции-blue.svg)](https://github.com/mrvi0/cli-json-fomatter)
+[![Статус](https://img.shields.io/badge/Статус-Проходят-orange.svg)](https://github.com/mrvi0/cli-json-fomatter)
 
 Запустите тесты для проверки функциональности:
 
@@ -202,9 +202,9 @@ json-formatter-cli/
 
 ## 🎯 Преимущества bash версии
 
-[![Быстрый запуск](https://img.shields.io/badge/Быстрый%20запуск-Без%20npm%20install-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Быстрый запуск](https://img.shields.io/badge/Быстрый%20запуск-Без%20npm%20install-brightgreen.svg)](https://github.com/mrvi0/cli-json-fomatter)
 [![Минимальные зависимости](https://img.shields.io/badge/Зависимости-только%20jq-orange.svg)](https://stedolan.github.io/jq/)
-[![Легкий вес](https://img.shields.io/badge/Легкий%20вес-~5KB-blue.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Легкий вес](https://img.shields.io/badge/Легкий%20вес-~5KB-blue.svg)](https://github.com/mrvi0/cli-json-fomatter)
 [![Linux нативный](https://img.shields.io/badge/Linux-Нативная%20поддержка-red.svg)](https://www.linux.org/)
 
 - ⚡ **Быстрый запуск** - нет необходимости в npm install
@@ -237,7 +237,12 @@ json-formatter-cli/
 
 ## 👨‍💻 Автор
 
-**Ваше Имя** - [GitHub](https://github.com/yourusername)
+**Vi** - [GitHub](https://github.com/mrvi0)
+
+### 📞 Поддержка
+
+- **Telegram:** [t.me/b4dcat](https://t.me/b4dcat)
+- **Email:** support@b4dcat.ru
 
 ---
 

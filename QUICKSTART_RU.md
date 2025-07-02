@@ -4,7 +4,7 @@
 
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/yourusername/json-formatter-cli.git
+git clone https://github.com/mrvi0/cli-json-fomatter.git
 cd json-formatter-cli
 
 # 2. Установите в систему

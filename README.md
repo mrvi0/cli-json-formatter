@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Shell: Bash](https://img.shields.io/badge/Shell-Bash-4EAA25.svg)](https://www.gnu.org/software/bash/)
-[![Dependency: jq](https://img.shields.io/badge/Dependency-jq-1.6+-blue.svg)](https://stedolan.github.io/jq/)
+[![Dependency: jq](https://img.shields.io/badge/Dependency-jq%201.6+-blue.svg)](https://stedolan.github.io/jq/)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux%20%7C%20Unix-lightgrey.svg)](https://www.linux.org/)
-[![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/mrvi0/cli-json-fomatter)
 
 🚀 Lightweight and fast CLI tool for JSON validation and formatting.
 
@@ -20,7 +20,7 @@
 
 ## 🛠️ Installation
 
-[![Installation](https://img.shields.io/badge/Installation-30%20seconds-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Installation](https://img.shields.io/badge/Installation-30%20seconds-brightgreen.svg)](https://github.com/mrvi0/cli-json-fomatter)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Unix-blue.svg)](https://www.linux.org/)
 [![Dependencies](https://img.shields.io/badge/Dependencies-Auto%20install-orange.svg)](https://stedolan.github.io/jq/)
 
@@ -28,7 +28,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/json-formatter-cli.git
+git clone https://github.com/mrvi0/cli-json-fomatter.git
 cd json-formatter-cli
 
 # Install to system
@@ -52,9 +52,9 @@ sudo cp jsonfmt /usr/local/bin/
 
 ## 🚀 Usage
 
-[![Usage](https://img.shields.io/badge/Usage-Simple%20CLI-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
-[![Features](https://img.shields.io/badge/Features-Validation%20%7C%20Formatting-blue.svg)](https://github.com/yourusername/json-formatter-cli)
-[![Output](https://img.shields.io/badge/Output-Colored%20%7C%20Pretty-orange.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Usage](https://img.shields.io/badge/Usage-Simple%20CLI-brightgreen.svg)](https://github.com/mrvi0/cli-json-fomatter)
+[![Features](https://img.shields.io/badge/Features-Validation%20%7C%20Formatting-blue.svg)](https://github.com/mrvi0/cli-json-fomatter)
+[![Output](https://img.shields.io/badge/Output-Colored%20%7C%20Pretty-orange.svg)](https://github.com/mrvi0/cli-json-fomatter)
 
 ### Basic Usage
 
@@ -147,9 +147,9 @@ jsonfmt -f invalid.json
 
 ## 🧪 Testing
 
-[![Tests](https://img.shields.io/badge/Tests-Automated%20Suite-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
-[![Coverage](https://img.shields.io/badge/Coverage-All%20Features-blue.svg)](https://github.com/yourusername/json-formatter-cli)
-[![Status](https://img.shields.io/badge/Status-Passing-orange.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Tests](https://img.shields.io/badge/Tests-Automated%20Suite-brightgreen.svg)](https://github.com/mrvi0/cli-json-fomatter)
+[![Coverage](https://img.shields.io/badge/Coverage-All%20Features-blue.svg)](https://github.com/mrvi0/cli-json-fomatter)
+[![Status](https://img.shields.io/badge/Status-Passing-orange.svg)](https://github.com/mrvi0/cli-json-fomatter)
 
 Run tests to verify functionality:
 
@@ -202,9 +202,9 @@ json-formatter-cli/
 
 ## 🎯 Bash Version Advantages
 
-[![Fast Startup](https://img.shields.io/badge/Fast%20Startup-No%20npm%20install-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Fast Startup](https://img.shields.io/badge/Fast%20Startup-No%20npm%20install-brightgreen.svg)](https://github.com/mrvi0/cli-json-fomatter)
 [![Minimal Dependencies](https://img.shields.io/badge/Dependencies-jq%20only-orange.svg)](https://stedolan.github.io/jq/)
-[![Lightweight](https://img.shields.io/badge/Lightweight-~5KB-blue.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Lightweight](https://img.shields.io/badge/Lightweight-~5KB-blue.svg)](https://github.com/mrvi0/cli-json-fomatter)
 [![Linux Native](https://img.shields.io/badge/Linux-Native%20Support-red.svg)](https://www.linux.org/)
 
 - ⚡ **Fast Startup** - no npm install required
@@ -237,7 +237,12 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 👨‍💻 Author
 
-**Your Name** - [GitHub](https://github.com/yourusername)
+**Vi** - [GitHub](https://github.com/mrvi0)
+
+### 📞 Support
+
+- **Telegram:** [t.me/b4dcat](https://t.me/b4dcat)
+- **Email:** support@b4dcat.ru
 
 ---
 
