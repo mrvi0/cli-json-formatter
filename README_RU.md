@@ -1,5 +1,11 @@
 # JSON Formatter & Validator CLI
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Shell: Bash](https://img.shields.io/badge/Shell-Bash-4EAA25.svg)](https://www.gnu.org/software/bash/)
+[![Dependency: jq](https://img.shields.io/badge/Dependency-jq-1.6+-blue.svg)](https://stedolan.github.io/jq/)
+[![Platform: Linux](https://img.shields.io/badge/Platform-Linux%20%7C%20Unix-lightgrey.svg)](https://www.linux.org/)
+[![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/yourusername/json-formatter-cli)
+
 🚀 Легкий и быстрый CLI инструмент для валидации и форматирования JSON файлов и строк.
 
 ## ✨ Возможности
@@ -13,6 +19,10 @@
 - ⚡ **Быстрый запуск** - один bash скрипт, без зависимостей npm
 
 ## 🛠️ Установка
+
+[![Установка](https://img.shields.io/badge/Установка-30%20секунд-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Платформа](https://img.shields.io/badge/Платформа-Linux%20%7C%20Unix-blue.svg)](https://www.linux.org/)
+[![Зависимости](https://img.shields.io/badge/Зависимости-Авто%20установка-orange.svg)](https://stedolan.github.io/jq/)
 
 ### Быстрая установка (рекомендуется)
 
@@ -41,6 +51,10 @@ sudo cp jsonfmt /usr/local/bin/
 ```
 
 ## 🚀 Использование
+
+[![Использование](https://img.shields.io/badge/Использование-Простой%20CLI-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Функции](https://img.shields.io/badge/Функции-Валидация%20%7C%20Форматирование-blue.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Вывод](https://img.shields.io/badge/Вывод-Цветной%20%7C%20Красивый-orange.svg)](https://github.com/yourusername/json-formatter-cli)
 
 ### Базовое использование
 
@@ -133,6 +147,10 @@ jsonfmt -f invalid.json
 
 ## 🧪 Тестирование
 
+[![Тесты](https://img.shields.io/badge/Тесты-Автоматизированные-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Покрытие](https://img.shields.io/badge/Покрытие-Все%20функции-blue.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Статус](https://img.shields.io/badge/Статус-Проходят-orange.svg)](https://github.com/yourusername/json-formatter-cli)
+
 Запустите тесты для проверки функциональности:
 
 ```bash
@@ -183,6 +201,11 @@ json-formatter-cli/
 - Понятные сообщения об ошибках с цветным выводом
 
 ## 🎯 Преимущества bash версии
+
+[![Быстрый запуск](https://img.shields.io/badge/Быстрый%20запуск-Без%20npm%20install-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Минимальные зависимости](https://img.shields.io/badge/Зависимости-только%20jq-orange.svg)](https://stedolan.github.io/jq/)
+[![Легкий вес](https://img.shields.io/badge/Легкий%20вес-~5KB-blue.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Linux нативный](https://img.shields.io/badge/Linux-Нативная%20поддержка-red.svg)](https://www.linux.org/)
 
 - ⚡ **Быстрый запуск** - нет необходимости в npm install
 - 🎯 **Минимальные зависимости** - только jq

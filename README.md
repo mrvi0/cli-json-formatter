@@ -1,5 +1,11 @@
 # JSON Formatter & Validator CLI
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Shell: Bash](https://img.shields.io/badge/Shell-Bash-4EAA25.svg)](https://www.gnu.org/software/bash/)
+[![Dependency: jq](https://img.shields.io/badge/Dependency-jq-1.6+-blue.svg)](https://stedolan.github.io/jq/)
+[![Platform: Linux](https://img.shields.io/badge/Platform-Linux%20%7C%20Unix-lightgrey.svg)](https://www.linux.org/)
+[![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/yourusername/json-formatter-cli)
+
 🚀 Lightweight and fast CLI tool for JSON validation and formatting.
 
 ## ✨ Features
@@ -13,6 +19,10 @@
 - ⚡ **Fast Startup** - single bash script, no npm dependencies
 
 ## 🛠️ Installation
+
+[![Installation](https://img.shields.io/badge/Installation-30%20seconds-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Unix-blue.svg)](https://www.linux.org/)
+[![Dependencies](https://img.shields.io/badge/Dependencies-Auto%20install-orange.svg)](https://stedolan.github.io/jq/)
 
 ### Quick Installation (Recommended)
 
@@ -41,6 +51,10 @@ sudo cp jsonfmt /usr/local/bin/
 ```
 
 ## 🚀 Usage
+
+[![Usage](https://img.shields.io/badge/Usage-Simple%20CLI-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Features](https://img.shields.io/badge/Features-Validation%20%7C%20Formatting-blue.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Output](https://img.shields.io/badge/Output-Colored%20%7C%20Pretty-orange.svg)](https://github.com/yourusername/json-formatter-cli)
 
 ### Basic Usage
 
@@ -133,6 +147,10 @@ jsonfmt -f invalid.json
 
 ## 🧪 Testing
 
+[![Tests](https://img.shields.io/badge/Tests-Automated%20Suite-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Coverage](https://img.shields.io/badge/Coverage-All%20Features-blue.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Status](https://img.shields.io/badge/Status-Passing-orange.svg)](https://github.com/yourusername/json-formatter-cli)
+
 Run tests to verify functionality:
 
 ```bash
@@ -183,6 +201,11 @@ json-formatter-cli/
 - Clear error messages with colored output
 
 ## 🎯 Bash Version Advantages
+
+[![Fast Startup](https://img.shields.io/badge/Fast%20Startup-No%20npm%20install-brightgreen.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Minimal Dependencies](https://img.shields.io/badge/Dependencies-jq%20only-orange.svg)](https://stedolan.github.io/jq/)
+[![Lightweight](https://img.shields.io/badge/Lightweight-~5KB-blue.svg)](https://github.com/yourusername/json-formatter-cli)
+[![Linux Native](https://img.shields.io/badge/Linux-Native%20Support-red.svg)](https://www.linux.org/)
 
 - ⚡ **Fast Startup** - no npm install required
 - 🎯 **Minimal Dependencies** - only jq
