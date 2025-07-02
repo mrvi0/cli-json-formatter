@@ -37,6 +37,12 @@ jsonfmt -f input.json -o output.json
 
 ## Uninstall
 
+### Using uninstall script (recommended)
+```bash
+sudo ./uninstall.sh
+```
+
+### Manual uninstall
 ```bash
 sudo rm /usr/local/bin/jsonfmt
 ```

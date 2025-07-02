@@ -78,7 +78,8 @@ if [[ -f "$INSTALL_DIR/$SCRIPT_FILE" ]]; then
     echo "  $SCRIPT_NAME --help"
     echo
     echo -e "${YELLOW}To uninstall use:${NC}"
-    echo "  sudo rm $INSTALL_DIR/$SCRIPT_NAME"
+    echo "  sudo ./uninstall.sh"
+    echo "  # or manually: sudo rm $INSTALL_DIR/$SCRIPT_NAME"
 else
     echo -e "${RED}❌ Installation failed${NC}"
     exit 1

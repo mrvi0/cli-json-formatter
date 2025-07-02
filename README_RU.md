@@ -154,6 +154,7 @@ chmod +x test.sh
 json-formatter-cli/
 ├── jsonfmt              # Основной bash скрипт
 ├── install.sh           # Скрипт установки
+├── uninstall.sh         # Скрипт удаления
 ├── test.sh              # Тесты
 ├── examples/
 │   └── sample.json      # Пример JSON файла

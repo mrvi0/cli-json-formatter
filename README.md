@@ -154,6 +154,7 @@ Tests verify:
 json-formatter-cli/
 ├── jsonfmt              # Main bash script
 ├── install.sh           # Installation script
+├── uninstall.sh         # Uninstall script
 ├── test.sh              # Tests
 ├── examples/
 │   └── sample.json      # Sample JSON file
